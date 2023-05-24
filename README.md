@@ -1,2 +1,2 @@
 # data-science
-Các DS dự án tự build tự học
+Các DS dự án tự build
